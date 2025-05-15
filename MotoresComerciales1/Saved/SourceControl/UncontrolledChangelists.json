@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/ivanl/OneDrive/Documentos/GitHub/MotoresComerciales1-2025/MotoresComerciales1/Content/ThirdPerson/Input/Actions/AI_Sprint.uasset",
+				"C:/Users/ivanl/OneDrive/Documentos/GitHub/MotoresComerciales1-2025/MotoresComerciales1/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/ivanl/OneDrive/Documentos/GitHub/MotoresComerciales1-2025/MotoresComerciales1/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/ivanl/OneDrive/Documentos/GitHub/MotoresComerciales1-2025/MotoresComerciales1/Content/cube.uasset",
+				"C:/Users/ivanl/OneDrive/Documentos/GitHub/MotoresComerciales1-2025/MotoresComerciales1/Content/BP_Platform.uasset",
+				"C:/Users/ivanl/OneDrive/Documentos/GitHub/MotoresComerciales1-2025/MotoresComerciales1/Content/BPI_Inflamable.uasset",
+				"C:/Users/ivanl/OneDrive/Documentos/GitHub/MotoresComerciales1-2025/MotoresComerciales1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/8D/23I8W9ECXQPIX13O6HB5BC.uasset",
+				"C:/Users/ivanl/OneDrive/Documentos/GitHub/MotoresComerciales1-2025/MotoresComerciales1/Content/NewNiagaraSystem.uasset"
+			]
+		}
+	]
+}
